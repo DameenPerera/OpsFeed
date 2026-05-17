@@ -10,7 +10,7 @@ The system runs entirely in the browser with no server, no installation, and no 
 
 App Name	Ops Feed
 
-Version	1.0.0
+Version	1.1.0
 
 Type	Client-side Web Application (Single HTML File)
 
